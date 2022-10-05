@@ -23,5 +23,10 @@ namespace WpfProject
         {
             InitializeComponent();
         }
+
+        private void new_btn_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Привет, Мир!");
+        }
     }
 }
