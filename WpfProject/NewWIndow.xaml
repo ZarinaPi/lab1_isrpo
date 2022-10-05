@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="NewWIndow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="new_btn" Content="Knopka" Margin="200"></Button>
     </Grid>
 </Window>
